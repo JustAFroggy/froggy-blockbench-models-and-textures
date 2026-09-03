@@ -1,0 +1,29 @@
+Copyright (c) 2026 JustAFroggy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of these models and textures to use and modify them for any non-commercial projects,
+subject to the following conditions:
+
+1. NON-COMMERCIAL USE: You may not generate money, profit, or any form of financial 
+gain from the use, distribution, or inclusion of these models and textures. You are 
+not permitted to sell copies of these models and textures or any works derived from them.
+
+2. PROHIBITED USE: These models and textures may not be used in any projects, media, 
+or contexts that promote, advertise, or involve extremist actions, racism, hate speech, 
+harassment, or any other malicious or harmful behavior.
+
+3. ATTRIBUTION AND LICENSE INCLUSION: 
+   - You must always properly credit the original creator by linking to the author's 
+     GitHub account and the official repository page:
+     - GitHub Account: https://github.com/JustAFroggy
+     - Repository Page: https://github.com/JustAFroggy/froggy-blockbench-models-and-textures
+   - A copy of this license agreement must always be visibly included and distributed 
+     alongside any use, modification, or redistribution of these models and textures.
+
+THE MODELS AND TEXTURES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE MODELS AND TEXTURES OR THE USE OR OTHER
+DEALINGS IN THE MODELS AND TEXTURES.
