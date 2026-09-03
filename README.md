@@ -15,6 +15,6 @@ You are free to use and modify these assets in your non-commercial projects, pro
 3. **Attribution:** You must always properly credit the author:
    * **GitHub Account:** [https://github.com/JustAFroggy](https://github.com/JustAFroggy)
    * **Repository Page:** [https://github.com/JustAFroggy/froggy-blockbench-models-and-textures](https://github.com/JustAFroggy/froggy-blockbench-models-and-textures)
-4. **License Inclusion:** A copy of the full [LICENSE](LICENSE) agreement must always be visibly included and distributed alongside any use, modification, or redistribution of these assets.
+4. **License Inclusion:** A copy of the full [LICENSE](https://github.com/JustAFroggy/froggy-blockbench-models-and-textures/blob/main/licence.txt) agreement must always be visibly included and distributed alongside any use, modification, or redistribution of these assets.
 
-For the full legal terms, please read the [LICENSE](LICENSE) file included in this repository.
+For the full legal terms, please read the [LICENSE](https://github.com/JustAFroggy/froggy-blockbench-models-and-textures/blob/main/licence.txt) file included in this repository.
