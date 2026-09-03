@@ -2,6 +2,10 @@
 
 A repository containing all my blockbench models and textures I create.
 
+I will provide the models as basic blockbench model files. If you intend to use them in your mods or creations, you will have to make changes to the right format yourself.
+
+Enjoy.
+
 ## 📥 Usage License
 
 You are free to use and modify these assets in your non-commercial projects, provided you adhere to the following rules:
