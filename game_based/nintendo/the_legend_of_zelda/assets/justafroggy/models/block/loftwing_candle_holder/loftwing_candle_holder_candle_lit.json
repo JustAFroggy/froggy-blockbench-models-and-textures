@@ -1,0 +1,186 @@
+{
+	"format_version": "26.3",
+	"credit": "Made by JustAFroggy",
+	"textures": {
+		"0": "justafroggy:block/loftwing_candle_holder",
+		"1": "block/candle_lit",
+		"particle": "justafroggy:block/loftwing_candle_holder"
+	},
+	"elements": [
+		{
+			"name": "Handle Base",
+			"from": [7, 5, 15],
+			"to": [9, 7, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 15]},
+			"faces": {
+				"north": {"uv": [5, 11, 7, 13], "texture": "#0"},
+				"east": {"uv": [5, 11, 6, 13], "texture": "#0"},
+				"south": {"uv": [5, 11, 7, 13], "texture": "#0"},
+				"west": {"uv": [5, 11, 6, 13], "texture": "#0"},
+				"up": {"uv": [5, 10, 7, 11], "texture": "#0"},
+				"down": {"uv": [5, 14, 7, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Handle",
+			"from": [8, 5.5, 13],
+			"to": [8.01, 6.5, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.5, 13]},
+			"faces": {
+				"east": {"uv": [3, 13, 5, 14], "texture": "#0"},
+				"west": {"uv": [3, 13, 5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Top",
+			"from": [6.5, 6.5, 10],
+			"to": [9.5, 7.5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 11.5]},
+			"faces": {
+				"north": {"uv": [0, 10, 3, 11], "texture": "#0"},
+				"east": {"uv": [0, 10, 3, 11], "texture": "#0"},
+				"south": {"uv": [0, 10, 3, 11], "texture": "#0"},
+				"west": {"uv": [0, 10, 3, 11], "texture": "#0"},
+				"up": {"uv": [1, 7, 4, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bottom",
+			"from": [6.5, 4.5, 10],
+			"to": [9.5, 5.5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 11.5]},
+			"faces": {
+				"north": {"uv": [0, 11, 3, 12], "texture": "#0"},
+				"east": {"uv": [0, 11, 3, 12], "texture": "#0"},
+				"south": {"uv": [0, 11, 3, 12], "texture": "#0"},
+				"west": {"uv": [0, 11, 3, 12], "texture": "#0"},
+				"down": {"uv": [4, 7, 7, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Handle Wrapper",
+			"from": [6.4, 5.4, 9.9],
+			"to": [9.6, 6.6, 13.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 11.5]},
+			"faces": {
+				"north": {"uv": [4, 11, 7, 12], "texture": "#0"},
+				"east": {"uv": [4, 11, 7, 12], "texture": "#0"},
+				"south": {"uv": [4, 11, 7, 12], "texture": "#0"},
+				"west": {"uv": [4, 11, 7, 12], "texture": "#0"},
+				"up": {"uv": [4, 11, 7, 12], "texture": "#0"},
+				"down": {"uv": [4, 11, 7, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Staff",
+			"from": [7.5, 0.75, 11],
+			"to": [8.5, 4.75, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.75, 11.5]},
+			"faces": {
+				"north": {"uv": [0, 12, 1, 16], "texture": "#0"},
+				"east": {"uv": [0, 12, 1, 16], "texture": "#0"},
+				"south": {"uv": [0, 12, 1, 16], "texture": "#0"},
+				"west": {"uv": [0, 12, 1, 16], "texture": "#0"},
+				"up": {"uv": [0, 12, 1, 13], "texture": "#0"},
+				"down": {"uv": [0, 15, 1, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Loftwing Ornament",
+			"from": [0.5, 2, 9.75],
+			"to": [15.5, 9, 9.76],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.5, 9.755]},
+			"faces": {
+				"north": {"uv": [0, 0, 15, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 15, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Candle",
+			"from": [7, 7.5, 10.5],
+			"to": [9, 8.5, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 11.5]},
+			"faces": {
+				"north": {"uv": [2, 10, 0, 11], "texture": "#1"},
+				"east": {"uv": [0, 10, 2, 11], "texture": "#1"},
+				"south": {"uv": [0, 10, 2, 11], "texture": "#1"},
+				"west": {"uv": [0, 10, 2, 11], "texture": "#1"},
+				"up": {"uv": [0, 8, 2, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "String",
+			"from": [7.5, 8.5, 11.5],
+			"to": [8.5, 9.5, 11.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8.5, 11.5]},
+			"faces": {
+				"north": {"uv": [0, 5, 1, 6], "texture": "#1"},
+				"south": {"uv": [0, 5, 1, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "String",
+			"from": [7.5, 8.5, 11.5],
+			"to": [8.5, 9.5, 11.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8.5, 11.5]},
+			"faces": {
+				"north": {"uv": [0, 5, 1, 6], "texture": "#1"},
+				"south": {"uv": [0, 5, 1, 6], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [2, 1, 0]
+		},
+		"head": {
+			"translation": [0, 1.5, -19],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, 4, -15],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "shandeleer",
+			"origin": [0.5, 0, 6],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		},
+		{
+			"name": "candle",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [7, 8, 9]
+		}
+	]
+}

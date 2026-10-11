@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "justafroggy:item/fungi/endura_shroom"
+  }
+}

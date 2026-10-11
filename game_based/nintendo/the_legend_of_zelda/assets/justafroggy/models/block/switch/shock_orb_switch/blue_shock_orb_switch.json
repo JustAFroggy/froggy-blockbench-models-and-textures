@@ -1,0 +1,53 @@
+{
+	"format_version": "26.3",
+	"credit": "Made by JustAFroggy",
+	"textures": {
+		"1": "justafroggy:block/switches/shock_orb_switch/blue_shock_orb_switch"
+	},
+	"elements": [
+		{
+			"name": "Switch Billboard 1",
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Switch Billboard 2",
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"gui": {
+			"rotation": [0, 45, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -17.26],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "blue_shock_orb_switch",
+			"origin": [8, 0, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

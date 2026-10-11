@@ -1,0 +1,331 @@
+{
+	"format_version": "26.3",
+	"credit": "Made by JustAFroggy",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "justafroggy:armor/cece_hat/cece_hat",
+		"particle": "justafroggy:armor/cece_hat/cece_hat"
+	},
+	"elements": [
+		{
+			"name": "Hair",
+			"from": [3.5, 3, 3.5],
+			"to": [12.5, 9, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"north": {"uv": [3, 14, 6, 16], "texture": "#0"},
+				"east": {"uv": [0, 14, 3, 16], "texture": "#0"},
+				"south": {"uv": [6, 14, 3, 16], "texture": "#0"},
+				"west": {"uv": [6, 14, 9, 16], "texture": "#0"},
+				"up": {"uv": [6, 11, 3, 14], "texture": "#0"},
+				"down": {"uv": [6, 11, 9, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Hat_Lower",
+			"from": [6.9, 7.65, 3.4],
+			"to": [15.1, 9.85, 12.6],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [9, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 3, 5.66667, 3.66667], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 3.66667], "texture": "#0"},
+				"south": {"uv": [5.66667, 3, 3, 3.66667], "texture": "#0"},
+				"west": {"uv": [0, 3, 3, 3.66667], "texture": "#0"},
+				"up": {"uv": [0, 3, 2.66667, 0], "texture": "#0"},
+				"down": {"uv": [5.33333, 0, 2.66667, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Hat_Upper_Front",
+			"from": [-0.75, 7, 2.5],
+			"to": [7.25, 9, 6.5],
+			"rotation": {"angle": -45, "axis": "z", "origin": [9, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 7, 2.66667, 7.66667], "texture": "#0"},
+				"east": {"uv": [2.66667, 7, 4, 7.66667], "texture": "#0"},
+				"south": {"uv": [0, 7, 2.66667, 7.66667], "texture": "#0"},
+				"west": {"uv": [2.66667, 7, 4, 7.66667], "texture": "#0"},
+				"up": {"uv": [0, 7, 2.66667, 5.66667], "texture": "#0"},
+				"down": {"uv": [5.33333, 5.66667, 2.66667, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Hat_Upper_Middle",
+			"from": [-1.85, 6.9, 5.9],
+			"to": [7.35, 9.1, 10.1],
+			"rotation": {"angle": -45, "axis": "z", "origin": [9, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 5, 3, 5.66667], "texture": "#0"},
+				"east": {"uv": [3, 5, 4.33333, 5.66667], "texture": "#0"},
+				"south": {"uv": [0, 5, 3, 5.66667], "texture": "#0"},
+				"west": {"uv": [3, 5, 4.33333, 5.66667], "texture": "#0"},
+				"up": {"uv": [3, 5, 0, 3.66667], "texture": "#0"},
+				"down": {"uv": [6, 3.66667, 3, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Hat_Upper_Back",
+			"from": [-0.75, 7, 9.5],
+			"to": [7.25, 9, 13.5],
+			"rotation": {"angle": -45, "axis": "z", "origin": [9, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 7, 2.66667, 7.66667], "texture": "#0"},
+				"east": {"uv": [2.66667, 7, 4, 7.66667], "texture": "#0"},
+				"south": {"uv": [0, 7, 2.66667, 7.66667], "texture": "#0"},
+				"west": {"uv": [2.66667, 7, 4, 7.66667], "texture": "#0"},
+				"up": {"uv": [0, 5.66667, 2.66667, 7], "texture": "#0"},
+				"down": {"uv": [5.33333, 7, 2.66667, 5.66667], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Earring Left",
+			"from": [3, 0, 4.475],
+			"to": [3.01, 3, 7.475],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [3, 0, 6]},
+			"faces": {
+				"east": {"uv": [5.33333, 1, 6.33333, 2], "texture": "#0"},
+				"west": {"uv": [5.33333, 1, 6.33333, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Earring Right",
+			"from": [13, 0, 4.475],
+			"to": [13.01, 3, 7.475],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [13, 0, 6]},
+			"faces": {
+				"east": {"uv": [5.33333, 1, 6.33333, 2], "texture": "#0"},
+				"west": {"uv": [5.33333, 1, 6.33333, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Mushrooms Front",
+			"from": [7.5, 7.5, 6],
+			"to": [14.5, 11.5, 6.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 10, 6.005]},
+			"faces": {
+				"north": {"uv": [6.33333, 0, 8.66667, 1.33333], "texture": "#0"},
+				"south": {"uv": [8.66667, 0, 6.33333, 1.33333], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Mushrooms Middle",
+			"from": [5, 7.75, 8],
+			"to": [15, 20.75, 8.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10, 14.25, 8.005]},
+			"faces": {
+				"north": {"uv": [12.66667, 0, 16, 4.33333], "texture": "#0"},
+				"south": {"uv": [16, 0, 12.66667, 4.33333], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Mushrooms Back",
+			"from": [7, 8, 10],
+			"to": [14, 14, 10.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [10.5, 11.5, 10.005]},
+			"faces": {
+				"north": {"uv": [5.33333, 5, 7.66667, 7], "texture": "#0"},
+				"south": {"uv": [7.66667, 5, 5.33333, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Veil Piece 1",
+			"from": [3, -7, 13],
+			"to": [10, 9, 13.01],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.48001, 1, 13.10048]},
+			"faces": {
+				"north": {"uv": [10.33333, 0, 12.66667, 5.33333], "texture": "#0"},
+				"south": {"uv": [12.66667, 0, 10.33333, 5.33333], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Veil Piece 2",
+			"from": [2.99809, -7, 13.19134],
+			"to": [9.99809, 9, 13.20134],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.48001, 1, 13.10048]},
+			"faces": {
+				"north": {"uv": [10.33333, 0, 12.66667, 5.33333], "texture": "#0"},
+				"south": {"uv": [12.66667, 0, 10.33333, 5.33333], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Veil Piece 3",
+			"from": [2.03615, -7, 13.18172],
+			"to": [9.03615, 9, 13.19172],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [5.53615, 1, 13.18672]},
+			"faces": {
+				"north": {"uv": [10.33333, 0, 12.66667, 5.33333], "texture": "#0"},
+				"south": {"uv": [12.66667, 0, 10.33333, 5.33333], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Veil Front",
+			"from": [4, 8, 4],
+			"to": [7, 11, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.75, 9.75, 8]},
+			"faces": {
+				"north": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"east": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"south": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"west": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"up": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"down": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Veil Middle",
+			"from": [2, 7.5, 6],
+			"to": [6, 12.5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.75, 9.75, 8]},
+			"faces": {
+				"north": {"uv": [1.33333, 9, 2.66667, 10.66667], "texture": "#0"},
+				"east": {"uv": [0, 9, 1.33333, 10.66667], "texture": "#0"},
+				"south": {"uv": [4, 9, 5.33333, 10.66667], "texture": "#0"},
+				"west": {"uv": [2.66667, 9, 4, 10.66667], "texture": "#0"},
+				"up": {"uv": [1.33333, 9, 2.66667, 7.66667], "texture": "#0"},
+				"down": {"uv": [2.66667, 7.66667, 4, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Veil Back",
+			"from": [4, 8, 9],
+			"to": [7, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.75, 9.75, 8]},
+			"faces": {
+				"north": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"east": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"south": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"west": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"up": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"},
+				"down": {"uv": [5.33333, 0, 6.33333, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Frailed Veil Bottom",
+			"from": [-1, 10, 2],
+			"to": [7, 10, 14],
+			"rotation": {"x": -5, "y": 12.5, "z": 12.5, "origin": [7, 10, 8]},
+			"faces": {
+				"up": {"uv": [8, 7, 5.33333, 11], "texture": "#0"},
+				"down": {"uv": [8, 7, 5.33333, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Frailed Veil Middle Low",
+			"from": [-1, 10, 2],
+			"to": [7, 10, 14],
+			"rotation": {"x": 5, "y": -12.5, "z": 0, "origin": [7, 10, 8]},
+			"faces": {
+				"up": {"uv": [8, 7, 5.33333, 11], "texture": "#0"},
+				"down": {"uv": [8, 7, 5.33333, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Frailed Veil Middle High",
+			"from": [-1, 10, 2],
+			"to": [7, 10, 14],
+			"rotation": {"x": -5, "y": 12.5, "z": -12.5, "origin": [7, 10, 8]},
+			"faces": {
+				"up": {"uv": [8, 7, 5.33333, 11], "texture": "#0"},
+				"down": {"uv": [8, 7, 5.33333, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Frailed Veil Top",
+			"from": [-1, 10, 2],
+			"to": [7, 10, 14],
+			"rotation": {"x": 5, "y": -12.5, "z": -22.5, "origin": [7, 10, 8]},
+			"faces": {
+				"up": {"uv": [8, 7, 5.33333, 11], "texture": "#0"},
+				"down": {"uv": [8, 7, 5.33333, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, 6.5, 0],
+			"scale": [1.61, 1.61, 1.61]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "cece_hat",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [
+				0,
+				{
+					"name": "hat",
+					"origin": [0, 0, 0],
+					"scope": 0,
+					"color": 0,
+					"children": [1, 2, 3, 4]
+				},
+				{
+					"name": "mushroom_earrings",
+					"origin": [8, 8, 8],
+					"scope": 0,
+					"color": 0,
+					"children": [5, 6]
+				},
+				{
+					"name": "decorations",
+					"origin": [8, 8, 8],
+					"scope": 0,
+					"color": 0,
+					"children": [7, 8, 9]
+				},
+				{
+					"name": "veil_back",
+					"origin": [8, 8, 8],
+					"scope": 0,
+					"color": 0,
+					"children": [10, 11, 12]
+				},
+				{
+					"name": "veil_top",
+					"origin": [4.75, 9.75, 8],
+					"scope": 0,
+					"color": 0,
+					"children": [13, 14, 15]
+				},
+				{
+					"name": "veil_frailed",
+					"origin": [8, 8, 8],
+					"scope": 0,
+					"color": 0,
+					"children": [16, 17, 18, 19]
+				}
+			]
+		}
+	]
+}
